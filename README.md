@@ -2,25 +2,20 @@
 
 ## About Me
 
-Welcome to my engineering portfolio.
+I am an Electrical and Electronics Engineering graduate with Diploma, Bachelor's and Master's qualifications, including an MSc in Advanced Electrical and Electronic Engineering with Management from the University of Leicester, United Kingdom.
 
-I am an Electrical and Electronics Engineering graduate with academic qualifications at Diploma, Bachelor's and Master's levels, including postgraduate study at the University of Leicester, United Kingdom.
+My academic background includes electrical and electronic engineering, wireless communications, IoT and embedded systems, engineering design, building-services drafting and engineering management.
 
-My academic background covers electrical and electronic engineering, engineering design, communication systems, embedded systems, IoT technology and engineering management.
+This portfolio brings together my academic projects, technical coursework, engineering drawings and practical training. It demonstrates my technical foundations, hands-on learning and individual contributions to academic engineering work.
 
-This portfolio presents selected technical coursework, academic projects, engineering drawings, practical training and supporting evidence from my studies.
+I am seeking to develop my career through graduate, junior or entry-level engineering and related technical opportunities.
 
-The purpose of this repository is to demonstrate my engineering knowledge, technical skills, practical learning and project experience to recruiters, engineering professionals and potential employers.
+## Education and Qualifications
 
-## Education & Qualifications
+**MSc Advanced Electrical and Electronic Engineering with Management**  
+University of Leicester, United Kingdom | 2022–2024
 
-### Master's Degree (MSc) | 2022–2024
-
-**Advanced Electrical and Electronic Engineering with Management**  
-University of Leicester, United Kingdom
-
-Relevant academic subjects include:
-
+Relevant modules:
 - Advanced Electrical Machines
 - Advanced Electronically Controlled Drives
 - Signal Processing
@@ -28,135 +23,119 @@ Relevant academic subjects include:
 - Engineering Design Case Study
 - Engineering Management Project
 
-### Bachelor's Degree (BE) | 2018–2021
+**BE Electrical and Electronics Engineering**  
+Anna University, India | 2018–2021  
+Classification: First Class
 
-**Electrical and Electronics Engineering**  
-Anna University, Tamil Nadu, India
+**Diploma in Electrical and Electronics Engineering**  
+Subramanian Polytechnic College, India | 2015–2018
 
-**Classification:** First Class
+## Engineering Projects and Technical Evidence
 
-Academic experience included electrical and electronic engineering fundamentals, embedded systems, engineering design and an IoT-based warehouse management project.
+### 01 – MATLAB: Advanced Communications
 
-### Diploma | 2015–2018
+Individual postgraduate coursework covering radio propagation, indoor signal attenuation, GSM cellular network planning and satellite communications.
 
-**Electrical and Electronics Engineering**
-
-Developed foundational knowledge in electrical and electronic engineering through diploma-level technical education.
-
-## Engineering Projects & Technical Evidence
-
-### 01 — MATLAB: Advanced Communications
-
-Postgraduate coursework involving wireless communication systems, radio propagation, cellular network analysis and atmospheric attenuation.
-
-**Technical activities:**
-- Configuring university-provided MATLAB models.
-- Running numerical simulations.
-- Analysing radio propagation and path-loss results.
-- Interpreting simulation outputs.
-- Preparing technical coursework reports.
+My activities involved entering parameters into university-provided MATLAB models, running calculations and simulations, analysing results and preparing technical reports.
 
 **Software:** MATLAB
 
-**Evidence:** Original academic coursework reports.
+**Evidence:** Coursework submissions, supporting calculations and available original assignment briefs.
 
-### 02 — Revit MEP: HVAC Layout and Drafting
+### 02 – Revit MEP: HVAC Layout and Drafting
 
-Practical HVAC drafting completed during MEP design and drafting training at CADPOINT.
+HVAC drafting completed during MEP Designing and Drafting training at CADPOINT.
 
-**Technical activities:**
-- Preparing an HVAC layout using supplied design information.
-- Arranging duct routes and building-services components.
-- Positioning fan coil units, diffusers and grilles.
-- Working with airflow information and duct dimensions.
-- Preparing engineering drawings.
+I prepared the Mezzanine Ground Floor AC Layout using supplied reference drawings and specifications, including duct routing, fan coil units, diffusers, grilles and airflow annotations.
 
-**Software:** Autodesk Revit MEP 2018
+The original duct sizing and engineering design calculations were not independently developed by me.
 
-**Evidence:** HVAC layout drawing and training certificate.
+**Software:** Autodesk Revit MEP 2018  
+**Additional training:** Autodesk AutoCAD 2018
 
-### 03 — IoT: Smart and Secure Warehouse Management System
+**Evidence:** Combined MEP training certificate and HVAC drawing.
 
-Undergraduate engineering team project focused on environmental monitoring and fire-hazard detection in warehouse environments.
+### 03 – IoT: Smart and Secure Warehouse Management System
 
-**Technical activities:**
-- Preparing electronic components.
-- Assisting with hardware and sensor connections.
-- Supporting prototype testing.
-- Contributing to technical documentation.
-- Participating in the project presentation.
+Three-member undergraduate engineering project developing an IoT-based prototype for warehouse environmental monitoring and hazard detection.
 
-**Technologies:** Arduino, ESP8266, environmental sensors and embedded systems.
+My contribution focused on preparing electronic components, assisting with hardware connections, supporting sensor testing, troubleshooting basic connection issues and preparing technical documentation.
+
+The main Arduino programme was developed by another team member.
+
+**Technologies:** Arduino UNO, ESP8266, environmental sensors, LCD and buzzer.
 
 **Evidence:** Project report, presentation, prototype photographs and team programming documentation.
 
-### 04 — SolidWorks: Gear Train Assembly
+### 04 – SolidWorks: Gear Train Assembly
 
-Postgraduate engineering design assignment involving mechanical modelling and spur gear assembly.
+Postgraduate academic assignment introducing mechanical assembly concepts and gear train visualisation using SolidWorks.
 
-**Technical activities:**
-- Working with spur gear modelling concepts.
-- Preparing mechanical component and assembly models.
-- Applying gear geometry and engineering design principles.
-- Preparing a gear train assembly drawing.
+I worked with the academic gear train assembly, examined mechanical component arrangements and documented the final assembly.
 
 **Software:** SOLIDWORKS
 
-**Evidence:** Original assignment brief and retained gear assembly drawing.
+**Evidence:** Assignment brief and final gear assembly drawing.
 
-### 05 — Engineering Safety Case Study
+### 05 – Space Shuttle Challenger: Engineering Safety Case Study
 
-Academic engineering case study examining the Space Shuttle Challenger disaster.
+Six-member postgraduate group case study examining engineering failures, safety risks, professional ethics and organisational decision-making.
 
-The work involved engineering ethics, safety-related decision-making and stakeholder analysis.
+My individual contribution involved researching, writing and presenting the Ethical Framework and Stakeholder Analysis sections.
 
-**Evidence:** Group report and presentation.
+**Evidence:** Original group report and presentation.
 
-### 06 — Engineering Management and Operational Risk
+### 06 – MSc Engineering Management Project: GSK
 
-Postgraduate research examining regulatory compliance, operational risk, risk mitigation and efficiency within GSK's global operations.
+Individual postgraduate dissertation examining regulatory compliance, operational risk management and international business operations using secondary research.
+
+I analysed published information and developed academic recommendations concerning compliance management, risk mitigation, operational efficiency and international business strategies.
+
+This was independent academic research, not employment or consultancy work for GSK.
 
 **Evidence:** MSc dissertation and academic presentation.
 
 ## Technical Skills
 
-**Engineering Software**
-- MATLAB
-- Autodesk Revit MEP
-- Autodesk AutoCAD
-- SOLIDWORKS
+**Engineering Software and Academic Tools**
+- MATLAB: Coursework calculations and simulation analysis
+- Autodesk Revit MEP 2018: HVAC drafting
+- Autodesk AutoCAD 2018: Training exposure
+- SOLIDWORKS: Introductory mechanical assembly experience
 
 **Engineering Knowledge**
 - Electrical and electronic engineering fundamentals
-- Wireless communications and radio propagation
-- IoT and embedded systems
-- Electronic sensors and hardware integration
-- HVAC and building-services drafting
-- Mechanical modelling and engineering design
-- Engineering safety and risk management
+- Radio propagation and wireless communications
+- IoT and embedded systems fundamentals
+- Electronic sensors and basic hardware connections
+- HVAC layout drafting
+- Mechanical assembly principles
+- Engineering safety and risk awareness
 
-**Professional and Academic Skills**
-- Technical documentation
-- Numerical analysis and interpretation
-- Engineering reporting
-- Project teamwork
-- Problem-solving
-- Research and presentation
+**Transferable Skills**
+- Technical documentation and reporting
+- Engineering calculations and result interpretation
+- Prototype testing and basic troubleshooting
+- Secondary research and critical analysis
+- Teamwork and stakeholder awareness
+- Technical presentations
 
 ## Supporting Documentation
 
-Each project folder contains available supporting evidence, including original coursework reports, engineering drawings, presentations, training certificates and project documentation.
+Each project folder contains the available coursework submissions, academic reports, drawings, presentations or training evidence.
 
-Some academic activities involved university-provided software models, supplied reference drawings or group contributions. These are identified appropriately to distinguish individual work from supplied materials and team projects.
+Where university-provided MATLAB models, supplied engineering specifications or group contributions were involved, these are identified to distinguish my individual work from materials provided by others.
+
+This portfolio represents academic engineering experience and technical training rather than professional electrical design employment.
 
 ## Professional Profile
 
-**Location:** United Kingdom
+**Location:** Hinckley, United Kingdom
 
 **LinkedIn:** https://www.linkedin.com/in/vishwa-murugesan1/
 
-**Portfolio Focus:** Electrical and Electronic Engineering | Engineering Design | Technical Projects | Engineering Management
+**Career interests:** Graduate Engineering | Junior Technical Roles | Engineering Operations | Technical Support | Engineering Coordination
 
 ---
 
-*This portfolio is intended to demonstrate academic engineering experience, practical technical learning and professional development.*
+*Academic engineering portfolio prepared to demonstrate my technical foundations, practical learning and professional development.*
