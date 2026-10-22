@@ -15,11 +15,19 @@ The project examined the Space Shuttle Challenger disaster, focusing on engineer
 - Stakeholder responsibilities
 - Organisational decision-making
 
+
 ## My Contribution
 
-As part of the group project, I contributed to the Ethical Framework and Stakeholder Analysis sections.
+This was a six-member academic group project.
 
-The report and presentation represent collaborative academic work.
+My individual responsibilities included:
+
+- Researching and writing the Ethical Framework section.
+- Researching and writing the Stakeholder Analysis section.
+- Presenting my assigned sections during the group presentation.
+- Contributing to discussions about engineering ethics, safety and stakeholder responsibilities.
+
+The overall report and presentation were collaborative group work.
 
 ## Supporting Evidence
 
