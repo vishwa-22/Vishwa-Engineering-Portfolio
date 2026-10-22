@@ -29,6 +29,7 @@ Classification: First Class
 
 **Diploma in Electrical and Electronics Engineering**  
 Subramanian Polytechnic College, India | 2015–2018
+
 Classification: First Class with Distinction
 
 ## Engineering Projects and Technical Evidence
