@@ -28,7 +28,7 @@ Relevant academic subjects include:
 - Engineering Design Case Study
 - Engineering Management Project
 
-### Bachelor's Degree (BE) | 2017–2021
+### Bachelor's Degree (BE) | 2018–2021
 
 **Electrical and Electronics Engineering**  
 Anna University, Tamil Nadu, India
@@ -37,7 +37,7 @@ Anna University, Tamil Nadu, India
 
 Academic experience included electrical and electronic engineering fundamentals, embedded systems, engineering design and an IoT-based warehouse management project.
 
-### Diploma | 2015–2017
+### Diploma | 2015–2018
 
 **Electrical and Electronics Engineering**
 
